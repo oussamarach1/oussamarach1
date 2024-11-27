@@ -1,8 +1,9 @@
-![logo](https://media.foundit.in/career-advice/wp-content/uploads/2023/09/795-x-285-16-min.jpg)
+![logo](https://media4.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif?cid=6c09b952v5u32a5ex2iux36utr72uj45gjynu1j8st3nuken&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Racheh Oussama</h1>
 <h3 align="center">Etudiant au Cycle d'ingénier en Informatique</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamarach1&label=Profile%20views&color=0e75b6&style=flat" alt="oussamarach1" /> </p>
+<img src="https://camo.githubusercontent.com/2d5fd1778db8bb1cb010748a80ae97878e832330f1da45519a4305014d57b08c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966" alt="animated gif">
 
 - 📫 How to reach me **oussama.racheh@sesame.com.tn**
 
@@ -17,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamarach1&show_icons=true&locale=en&layout=compact" alt="oussamarach1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamarach1&show_icons=true&locale=en" alt="oussamarach1" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamarach1&" alt="oussamarach1" /></p>
